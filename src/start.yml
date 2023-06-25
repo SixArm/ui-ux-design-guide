@@ -1,0 +1,23 @@
+---
+title: "UI/UX Primer"
+subtitle: "Concepts • Terminology • Tactics"
+author: "Edited by Joel Parker Henderson"
+date: "Version 1.0.0"
+titlepage: true
+titlepage-color: "FFFFFF"
+titlepage-text-color: "000000"
+titlepage-rule-color: "CCCCCC"
+titlepage-rule-height: 4
+logo: "files/logo.png"
+logo-width: 100
+page-background:
+page-background-opacity:
+links-as-notes: false
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+footer-left: "© Joel Parker Henderson"
+footer-center: "License: CC-BY-NC-SA-4.0"
+subparagraph: true
+lang: en-US
+---
