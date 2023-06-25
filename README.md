@@ -22,10 +22,10 @@ Introduction
 
 UI/UX
 
-  * User Interface (UI)](user-interface) + [benefits
-  * User Experience (UX)](user-experience) + [benefits
-  * Customer Experience (CX)](customer-experience) + [benefits
-  * Developer Experience (DX)](developer-experience) + [benefits
+  * User Interface (UI)
+  * User Experience (UX)
+  * Customer Experience (CX)
+  * Developer Experience (DX)
   * User-centered design (UCD)
   * Usability
   * Accessibility
@@ -39,7 +39,7 @@ Design management
 
 Design thinking
 
-  * Empathy map](empathy-map) + [benefits
+  * Empathy map
   * Focus group
   * Personas
   * Journeys
@@ -66,7 +66,7 @@ Ideation
   * SCAMPER
   * Oblique strategies
   * Futurespective
-  * Storyboard](storyboard) + [steps
+  * Storyboard
   * Mental model
   * The map is not the territory
 
