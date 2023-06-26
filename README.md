@@ -4,7 +4,7 @@ UI/UX Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-Edited by [Joel Parker Henderson:<br>
+Edited by Joel Parker Henderson:<br>
 <https://github.com/joelparkerhenderson>
 
 The e-book PDF file is here:<br>
@@ -21,7 +21,7 @@ Questions and feedback:<br>
 Introduction
 
 * What is this book?
-* Who should read this?
+* Who is this for?
 * Why did I write this?
 
 UI/UX

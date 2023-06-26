@@ -17,6 +17,7 @@
 * [Personas](personas)
 * [Journeys](journeys)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
+* [Subject matter expert (SME)](subject-matter-expert)
 * [Design charrette](design-charrette)
 * [Mind map](mind-map)
 * [Decision tree](decision-tree)
