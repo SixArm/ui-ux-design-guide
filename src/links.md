@@ -8,7 +8,6 @@
 * [Developer Experience (DX)](developer-experience) + [benefits](developer-experience-benefits)
 * [User-centered design (UCD)](user-centered-design)
 * [Usability](usability)
-* [Accessibility](accessibility)
 * [Information architecture (IA)](information-architecture)
 
 ### [Design management](design-management)
@@ -24,6 +23,8 @@
 * [Personas](personas)
 * [Journeys](journeys)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
+* [UK Government Design Principles](uk-government-design-principles)
+* [Apple Human Interface Guidelines (HIG)](apple-human-interface-guidelines)
 * [Design charrette](design-charrette)
 * [Mind map](mind-map)
 * [Decision tree](decision-tree)
@@ -61,7 +62,6 @@
 * [Low-fidelity prototype](low-fidelity-prototype)
 * [High-fidelity prototype](high-fidelity-prototype)
 * [Kaizen a.k.a. continuous improvement](kaizen)
-* [Books about UI/UX](books-about-ui-ux)
 
 ### [Modeling diagrams](modeling-diagrams)
 
@@ -73,6 +73,15 @@
 * [Cause-and-effect diagram](cause-and-effect-diagram)
 * Fishbone diagram: see cause-and-effect diagram
 * Ishikawa diagram: see cause-and-effect diagram
+
+### [North Star](north-star)
+
+* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
+* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
+* [Big design up front (BDUF)](big-design-up-front)
+* [Domain-Driven Design (DDD)](domain-driven-design)
+* [Behavior-Driven Development (BDD)](behavior-driven-development)
+* [Test-Driven Development (TDD)](test-driven-development)
 
 ### [Affordances](affordance)
 
@@ -87,27 +96,23 @@
 * [Site map](site-map)
 * [ARIA attributes](aria-attributes)
 * [Model-View-Controller (MVC)](model-view-controller)
+ 
+### [Accessibility](accessibility)
 
-### [North Star](north-star)
-
-* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
-* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
-* [Big design up front (BDUF)](big-design-up-front)
-* [Domain-Driven Design (DDD)](domain-driven-design)
-* [Behavior-Driven Development (BDD)](behavior-driven-development)
-* [Test-Driven Development (TDD)](test-driven-development)
-
-### [Digital inclusion](digital-inclusion)
-
+* [Digital inclusion](digital-inclusion)
 * [Cross-cultural communication](cross-cultural-communication)
 * [Communication styles](communication-styles)
 * [Screen reader](screen-reader)
 * [Keyboard shortcut (a.k.a. hotkey)](keyboard-shortcut)
 * [Alternative text attribute](alternative-text-attribute)
- 
+* [Web Content Accessibility Guidelines (WCAG)](web-content-accessibility-guidelines)
+* [UI for color blindness](ui-for-color-blindness)
+
 ### [UI/UX implementation](ui-ux-implementation)
 
 * [Typography](typography)
+* [Copywriting](copywriting)
+* [Microcopy](microcopy)
 * [Iconography](iconography)
 * [Grid system](grid-system)
 * [Mobile-first design](mobile-first-design)
@@ -135,6 +140,11 @@
 * [AI image generation](ai-image-generation)
 * [AI internationalization/localization](ai-internationalization-localization)
  
+### [Books about UI/UX](books-about-ui-ux)
+
+* [Universal Principles of Design by William Lidwell et al.](universal-principles-of-design-by-william-lidwell-et-al)
+
+
 ### [Conclusion](ui-ux-primer-conclusion)
 
 * [About the editor](about-the-editor)
