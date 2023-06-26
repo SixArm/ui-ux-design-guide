@@ -10,12 +10,6 @@
 * [Usability](usability)
 * [Information architecture (IA)](information-architecture)
 
-### [Design management](design-management)
-
-* [Design system](design-system)
-* [Style guide](style-guide)
-* [Pattern library](pattern-library)
-
 ### [Design thinking](design-thinking)
 
 * [Empathy map](empathy-map) + [benefits](empathy-map-benefits)
@@ -23,13 +17,20 @@
 * [Personas](personas)
 * [Journeys](journeys)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
-* [UK Government Design Principles](uk-government-design-principles)
-* [Apple Human Interface Guidelines (HIG)](apple-human-interface-guidelines)
 * [Design charrette](design-charrette)
 * [Mind map](mind-map)
 * [Decision tree](decision-tree)
 * [Gamification](gamification)
 
+### [Design management](design-management)
+
+* [Design system](design-system)
+* [Style guide](style-guide)
+* [Pattern library](pattern-library)
+* [UK Government Design Principles](uk-government-design-principles)
+* [Apple Human Interface Guidelines (HIG)](apple-human-interface-guidelines)
+* [Google Material Design](google-material-design)
+  
 ### [Task analysis](task-analysis)
 
 * [Cognitive task analysis (CTA)](cognitive-task-analysis)
@@ -96,7 +97,8 @@
 * [Site map](site-map)
 * [ARIA attributes](aria-attributes)
 * [Model-View-Controller (MVC)](model-view-controller)
- 
+* [Paper cut bug](paper-cut-bug)
+  
 ### [Accessibility](accessibility)
 
 * [Digital inclusion](digital-inclusion)
@@ -117,6 +119,7 @@
 * [Grid system](grid-system)
 * [Mobile-first design](mobile-first-design)
 * [Low-code / no-code](low-code-no-code)
+* [Text-To-Speech (TTS) and Speech-To-Text (STT)](text-to-speech-and-speech-to-text)
 * [Progressive enhancement](progressive-enhancement)
 * [Graceful degradation](graceful-degradation)
 * [Data schema](data-schema)
@@ -125,16 +128,19 @@
 ### [UX/UX testing](ui-ux-testing)
 
 * [Split testing](split-testing)
+* [End-to-end testing](end-to-end-testing)
 * [Acceptance testing](acceptance-testing)
 * [Localization testing](localization-testing)
 * [Accessibility testing](accessibility-testing)
 * [Screen reader testing](screen-reader-testing)
+* [Benchmark testing](benchmark-testing)
 * [Shift-left testing](shift-left-testing)
 * [Heatmap](heatmap)
 
 ### [Artificial intelligence (AI)](artificial-intelligence)
 
 * [AI UI/UX](ai-ui-ux)
+* [AI form fill](ai-form-fill)
 * [AI product development](ai-product-development)
 * [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
@@ -143,7 +149,21 @@
 ### [Books about UI/UX](books-about-ui-ux)
 
 * [Universal Principles of Design by William Lidwell et al.](universal-principles-of-design-by-william-lidwell-et-al)
+* [The Design of Everyday Things by Donald Norman](the-design-of-everyday-things-by-donald-norman)
+* [Envisioning Information by Edward R. Tufte](envisioning-information-by-edward-r-tufte)
+* [Don't Make Me Think by Steve Krug](dont-make-me-think-by-steve-krug)
+* [Forms that Work by by Caroline Jarrett et al.](forms-that-work-by-by-caroline-jarrett-et-al)
 
+<!-- TODO
+
+BOOKS:
+* [Rocket Surgery Made Easy by Steve Krug]
+* [Defensive Design for the Web by 37signals]
+* [The Visual Display of Quantitative Information by Edward R. Tufte]
+* [The Humane Interface by Jef Raskin]
+* [Information Architecture by Louis Rosenfeld and Peter Morville]
+
+-->
 
 ### [Conclusion](ui-ux-primer-conclusion)
 
