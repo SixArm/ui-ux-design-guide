@@ -162,6 +162,8 @@ BOOKS:
 * [The Visual Display of Quantitative Information by Edward R. Tufte]
 * [The Humane Interface by Jef Raskin]
 * [Information Architecture by Louis Rosenfeld and Peter Morville]
+* [The Non-Designers Design Book] N.b. This is where the acronym CRAP comes from, which is Contrast, Repetition, Alignment, and Proximity.
+* [Badass: Making Users Awesome by Kathy Sierra]
 
 -->
 
