@@ -155,18 +155,11 @@
 * [Don't Make Me Think by Steve Krug](dont-make-me-think-by-steve-krug)
 * [Forms that Work by by Caroline Jarrett et al.](forms-that-work-by-by-caroline-jarrett-et-al)
 
-<!-- TODO
+### [Soft skills](soft-skills)
 
-BOOKS:
-* [Rocket Surgery Made Easy by Steve Krug]
-* [Defensive Design for the Web by 37signals]
-* [The Visual Display of Quantitative Information by Edward R. Tufte]
-* [The Humane Interface by Jef Raskin]
-* [Information Architecture by Louis Rosenfeld and Peter Morville]
-* [The Non-Designers Design Book] N.b. This is where the acronym CRAP comes from, which is Contrast, Repetition, Alignment, and Proximity.
-* [Badass: Making Users Awesome by Kathy Sierra]
-
--->
+* [How to sketch a user interface](how-to-sketch-a-user-interface)
+* [How to run a focus group](how-to-run-a-focus-group)
+* [How to give a demo](how-to-give-a-demo)
 
 ### [Conclusion](ui-ux-primer-conclusion)
 

@@ -169,7 +169,7 @@ Artificial intelligence (AI)
 * AI content generator
 * AI image generation
 * AI internationalization/localization
- 
+
 Books about UI/UX
 
 * Universal Principles of Design by William Lidwell et al.
@@ -177,6 +177,12 @@ Books about UI/UX
 * Envisioning Information by Edward R. Tufte
 * Don't Make Me Think by Steve Krug
 * Forms that Work by by Caroline Jarrett et al.
+
+Soft skills
+
+* How to sketch a user interface
+* How to run a focus group
+* How to give a demo
 
 Conclusion
 
