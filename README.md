@@ -87,6 +87,7 @@ Product design
 * MoSCoW method
 * Low-fidelity prototype
 * High-fidelity prototype
+* WYSIWYG
 * Kaizen a.k.a. continuous improvement
 
 Modeling diagrams
