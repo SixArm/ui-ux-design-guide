@@ -186,6 +186,12 @@ Soft skills
 * How to sketch a user interface
 * How to run a focus group
 * How to give a demo
+* How to interview a user
+* How to collaborate
+* How to lead a meeting
+* How to work with stakeholders
+* How to get feedback
+* How to give feedback
 
 Conclusion
 

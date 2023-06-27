@@ -163,6 +163,13 @@
 * [How to sketch a user interface](how-to-sketch-a-user-interface)
 * [How to run a focus group](how-to-run-a-focus-group)
 * [How to give a demo](how-to-give-a-demo)
+* [How to interview a user](how-to-interview-a-user)
+* [How to collaborate](how-to-collaborate)
+* [How to lead a meeting](how-to-lead-a-meeting)
+* [How to work with stakeholders](how-to-work-with-stakeholders)
+* [How to get feedback](how-to-get-feedback)
+* [How to give feedback](how-to-give-feedback)
+
 
 ### [Conclusion](ui-ux-primer-conclusion)
 
