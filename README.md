@@ -125,6 +125,7 @@ Affordances
 * ARIA attributes
 * Model-View-Controller (MVC)
 * Paper cut bug
+* Dark pattern
   
 Accessibility
 
@@ -208,7 +209,6 @@ Aphorisms
 * The Law of Conservation of Complexity (Tesler's Law)
 * The Pareto Principle (The 80/20 Rule)
 * Chesterton's fence
-
 
 Soft skills
 

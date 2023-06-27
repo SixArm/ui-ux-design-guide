@@ -102,6 +102,7 @@
 * [ARIA attributes](aria-attributes)
 * [Model-View-Controller (MVC)](model-view-controller)
 * [Paper cut bug](paper-cut-bug)
+* [Dark pattern](dark-pattern)
   
 ### [Accessibility](accessibility)
 
