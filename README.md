@@ -98,6 +98,9 @@ Modeling diagrams
 * Cause-and-effect diagram
 * Fishbone diagram: see cause-and-effect diagram
 * Ishikawa diagram: see cause-and-effect diagram
+* Unified Modeling Language (UML)
+* PlantUML
+* Mermaid.js
 
 North Star
 

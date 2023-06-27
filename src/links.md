@@ -75,6 +75,9 @@
 * [Cause-and-effect diagram](cause-and-effect-diagram)
 * Fishbone diagram: see cause-and-effect diagram
 * Ishikawa diagram: see cause-and-effect diagram
+* [Unified Modeling Language (UML)](unified-modeling-language)
+* [PlantUML](plantuml)
+* [Mermaid.js](mermaid-js)
 
 ### [North Star](north-star)
 
