@@ -165,6 +165,27 @@
 * [Don't Make Me Think by Steve Krug](dont-make-me-think-by-steve-krug)
 * [Forms that Work by by Caroline Jarrett et al.](forms-that-work-by-by-caroline-jarrett-et-al)
 
+### [UI/UX quotations](ui-ux-quotations)
+
+* [Learn early, learn often](learn-early-learn-often)
+* [Make mistakes faster](make-mistakes-faster)
+* [Perfect is the enemy of good](perfect-is-the-enemy-of-good)
+* [Data beats emotions](data-beats-emotions)
+
+### [Idioms](idioms)
+
+* [Quick wins](quick-wins)
+* [Think outside of the box](think-outside-of-the-box)
+* [Out of scope](out-of-scope)
+* [Over the horizon](over-the-horizon)
+ 
+### [Aphorisms](aphorisms)
+
+* [The Law of Demos (Kapor's Law)](the-law-of-demos)
+* [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
+* [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
+* [Chesterton's fence](chestertons-fence)
+
 ### [Soft skills](soft-skills)
 
 * [How to sketch a user interface](how-to-sketch-a-user-interface)

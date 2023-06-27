@@ -188,6 +188,28 @@ Books about UI/UX
 * Don't Make Me Think by Steve Krug
 * Forms that Work by by Caroline Jarrett et al.
 
+UI/UX quotations
+
+* Learn early, learn often
+* Make mistakes faster
+* Perfect is the enemy of good
+* Data beats emotions
+
+Idioms
+
+* Quick wins
+* Think outside of the box
+* Out of scope
+* Over the horizon
+ 
+Aphorisms
+
+* The Law of Demos (Kapor's Law)
+* The Law of Conservation of Complexity (Tesler's Law)
+* The Pareto Principle (The 80/20 Rule)
+* Chesterton's fence
+
+
 Soft skills
 
 * How to sketch a user interface
