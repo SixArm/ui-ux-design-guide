@@ -22,7 +22,7 @@ Introduction
 
 * What is this book?
 * Who is this for?
-* Why did I write this?
+* Why am I creating this?
 
 UI/UX
 
@@ -151,6 +151,13 @@ UI/UX implementation
 * Graceful degradation
 * Data schema
 * Object-Relational Mapper (ORM)
+
+Internationalization and localization
+
+* Internationalization and localization - steps
+* Locale
+* Locale codes
+* Bidirectional text (bidi)
 
 UX/UX testing
 

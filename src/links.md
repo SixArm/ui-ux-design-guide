@@ -129,6 +129,13 @@
 * [Data schema](data-schema)
 * [Object-Relational Mapper (ORM)](object-relational-mapper)
 
+### [Internationalization and localization](internationalization-and-localization)
+
+* [Internationalization and localization - steps](internationalization-and-localization-steps)
+* [Locale](locale)
+* [Locale codes](locale-codes)
+* [Bidirectional text (bidi)](bidirectional-text)
+
 ### [UX/UX testing](ui-ux-testing)
 
 * [Split testing](split-testing)
@@ -169,7 +176,6 @@
 * [How to work with stakeholders](how-to-work-with-stakeholders)
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
-
 
 ### [Conclusion](ui-ux-primer-conclusion)
 
