@@ -78,6 +78,7 @@ Ideation
 
 Product design
 
+* Design canvas
 * Mockups
 * Wireframes
 * Use cases

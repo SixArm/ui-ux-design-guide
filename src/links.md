@@ -55,6 +55,7 @@
 
 ### [Product design](product-design)
 
+* [Design canvas](design-canvas)
 * [Mockups](mockups)
 * [Wireframes](wireframes)
 * [Use cases](use-cases)
@@ -63,6 +64,7 @@
 * [MoSCoW method](moscow-method)
 * [Low-fidelity prototype](low-fidelity-prototype)
 * [High-fidelity prototype](high-fidelity-prototype)
+* [WYSIWYG](wysiwyg)
 * [Kaizen a.k.a. continuous improvement](kaizen)
 
 ### [Modeling diagrams](modeling-diagrams)
