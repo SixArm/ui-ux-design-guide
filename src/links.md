@@ -49,7 +49,8 @@
 * [SCAMPER](scamper)
 * [Oblique strategies](oblique-strategies)
 * [Futurespective](futurespective)
-* [Storyboard](storyboard) + [steps](storyboard-steps)
+* [Storyboard](storyboard)
+* [Storyboard - steps](storyboard-steps)
 * [Mental model](mental-model)
 * [The map is not the territory](the-map-is-not-the-territory)
 
