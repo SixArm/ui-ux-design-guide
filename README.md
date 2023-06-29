@@ -192,6 +192,7 @@ Books about UI/UX
 * Envisioning Information by Edward R. Tufte
 * Don't Make Me Think by Steve Krug
 * Forms that Work by by Caroline Jarrett et al.
+* The Humane Interface by Jef Raskin
 
 UI/UX quotations
 

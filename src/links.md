@@ -168,6 +168,7 @@
 * [Envisioning Information by Edward R. Tufte](envisioning-information-by-edward-r-tufte)
 * [Don't Make Me Think by Steve Krug](dont-make-me-think-by-steve-krug)
 * [Forms that Work by by Caroline Jarrett et al.](forms-that-work-by-by-caroline-jarrett-et-al)
+* [The Humane Interface by Jef Raskin](the-humane-interface-by-jef-raskin)
 
 ### [UI/UX quotations](ui-ux-quotations)
 
