@@ -192,6 +192,7 @@
 
 ### [Soft skills](soft-skills)
 
+* [How to create a UI/UX portfolio](how-to-create-a-ui-ux-portfolio)
 * [How to sketch a user interface](how-to-sketch-a-user-interface)
 * [How to run a focus group](how-to-run-a-focus-group)
 * [How to give a demo](how-to-give-a-demo)

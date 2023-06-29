@@ -216,6 +216,7 @@ Aphorisms
 
 Soft skills
 
+* How to create a UI/UX portfolio
 * How to sketch a user interface
 * How to run a focus group
 * How to give a demo
