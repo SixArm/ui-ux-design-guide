@@ -8,7 +8,7 @@ Download the [free e-book](ui-ux-primer.pdf)
 
 You can [pay what you want](https://gumroad.com/l/ui-ux-primer)
 
-Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
+Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 
 For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
 
