@@ -4,13 +4,10 @@ UI/UX Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-Download the [free e-book](ui-ux-primer.pdf)
-
-You can [pay what you want](https://gumroad.com/l/ui-ux-primer)
-
-Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
-
-For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
+* Download the [free e-book](ui-ux-primer.pdf).
+* If you wish, [pay what you want](https://gumroad.com/l/ui-ux-primer).
+* Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
+* For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
 Related primers:
 
