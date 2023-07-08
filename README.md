@@ -9,12 +9,6 @@ This is a glossary guide e-book, with one topic per page.
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
-Related primers:
-
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
-
 ## Contents
 
 Introduction
@@ -22,13 +16,14 @@ Introduction
 * What is this book?
 * Who is this for?
 * Why am I creating this?
+* Are there more primers?
 
 UI/UX
 
-* User Interface (UI)
-* User Experience (UX)
-* Customer Experience (CX)
-* Developer Experience (DX)
+* User Interface (UI) + benefits
+* User Experience (UX) + benefits
+* Customer Experience (CX) + benefits
+* Developer Experience (DX) + benefits
 * User-centered design (UCD)
 * Usability
 * Information architecture (IA)
@@ -40,6 +35,7 @@ Design thinking
 * Personas
 * Journeys
 * Voice of the Customer (VoC)
+* Subject matter expert (SME)
 * Design charrette
 * Mind map
 * Decision tree
@@ -67,13 +63,17 @@ Ideation
 
 * Creative thinking techniques
 * Brainstorming
+* Active listening
 * Thinking hats
 * SCAMPER
-* Oblique strategies
 * Futurespective
 * Storyboard
+* Storyboard - steps
 * Mental model
 * The map is not the territory
+* Vision board
+* Oblique strategies
+* Abramović method
 
 Product design
 
@@ -127,7 +127,7 @@ Affordances
 * Model-View-Controller (MVC)
 * Paper cut bug
 * Dark pattern
-  
+
 Accessibility
 
 * Digital inclusion
@@ -147,6 +147,7 @@ UI/UX implementation
 * Iconography
 * Grid system
 * Mobile-first design
+* Reactive UI
 * Low-code / no-code
 * Text-To-Speech (TTS) and Speech-To-Text (STT)
 * Progressive enhancement
@@ -204,13 +205,15 @@ Idioms
 * Think outside of the box
 * Out of scope
 * Over the horizon
- 
+* For more see our Business Lingo Primer
+
 Aphorisms
 
 * The Law of Demos (Kapor's Law)
 * The Law of Conservation of Complexity (Tesler's Law)
 * The Pareto Principle (The 80/20 Rule)
 * Chesterton's fence
+* For more see our Business Lingo Primer
 
 Soft skills
 
@@ -231,3 +234,11 @@ Conclusion
 * About the AI
 * About the ebook
 * About related projects
+
+## More primers
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)

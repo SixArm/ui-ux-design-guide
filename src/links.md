@@ -45,14 +45,17 @@
 
 * [Creative thinking techniques](creative-thinking-techniques)
 * [Brainstorming](brainstorming)
+* [Active listening](active-listening)
 * [Thinking hats](thinking-hats)
 * [SCAMPER](scamper)
-* [Oblique strategies](oblique-strategies)
 * [Futurespective](futurespective)
 * [Storyboard](storyboard)
 * [Storyboard - steps](storyboard-steps)
 * [Mental model](mental-model)
 * [The map is not the territory](the-map-is-not-the-territory)
+* [Vision board](vision-board)
+* [Oblique strategies](oblique-strategies)
+* [Abramović method](abramovic-method)
 
 ### [Product design](product-design)
 
@@ -126,6 +129,7 @@
 * [Iconography](iconography)
 * [Grid system](grid-system)
 * [Mobile-first design](mobile-first-design)
+* [Reactive UI](reactive-ui)
 * [Low-code / no-code](low-code-no-code)
 * [Text-To-Speech (TTS) and Speech-To-Text (STT)](text-to-speech-and-speech-to-text)
 * [Progressive enhancement](progressive-enhancement)
@@ -183,6 +187,7 @@
 * [Think outside of the box](think-outside-of-the-box)
 * [Out of scope](out-of-scope)
 * [Over the horizon](over-the-horizon)
+* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
  
 ### [Aphorisms](aphorisms)
 
@@ -190,6 +195,7 @@
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [Chesterton's fence](chestertons-fence)
+* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
 ### [Soft skills](soft-skills)
 

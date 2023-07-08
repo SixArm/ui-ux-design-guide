@@ -17,11 +17,8 @@ Soft skills:
 * [How to find a mentor](how-to-find-a-mentor)
 
 Misc:
-* [Active listening](active-listening)
 * [Date-picker UI](date-picker-ui)
 * [Modal and Modeless](modal-and-modeless)
-* [Reactive UI](reactive-ui)
-* [Vision board](vision-board)
 
 agile / lean / kanban / xp / waterfall
 
