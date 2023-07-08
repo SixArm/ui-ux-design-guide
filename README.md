@@ -1,4 +1,15 @@
+<!--
+  * browser: ui-ux-primer
+  * tracker: d3f018d32305ea599dc4b9e6f132e495
+  * version: 1.3.0
+  * updated: 2023-07-08T17:38:30Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # UI/UX Primer
+
+<img src="README.png" alt="UI/UX Primer Logo" style="width: 100%;"/>
 
 UI/UX Primer: Concepts, Tactics, Ideas.
 
