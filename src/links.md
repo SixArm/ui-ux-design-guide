@@ -2,12 +2,19 @@
 
 ### [UI/UX](ui-ux)
 
-* [User Interface (UI)](user-interface) + [benefits](user-interface-benefits)
-* [User Experience (UX)](user-experience) + [benefits](user-experience-benefits)
-* [Customer Experience (CX)](customer-experience) + [benefits](customer-experience-benefits)
-* [Developer Experience (DX)](developer-experience) + [benefits](developer-experience-benefits)
-* [User-centered design (UCD)](user-centered-design)
+* [User Interface (UI)](user-interface)
+* [User Interface (UI) - benefits](user-interface-benefits)
+* [User Experience (UX)](user-experience)
+* [User Experience (UX) - benefits](user-experience-benefits)
+* [Customer Experience (CX)](customer-experience)
+* [Customer Experience (CX) - benefits](customer-experience-benefits)
+* [Developer Experience (DX)](developer-experience)
+* [Developer Experience (DX) - benefits](developer-experience-benefits)
+
+### [User-centered design (UCD)](user-centered-design)
+
 * [Usability](usability)
+* [Accessibility](accessibility)
 * [Information architecture (IA)](information-architecture)
 
 ### [Design thinking](design-thinking)
@@ -110,9 +117,8 @@
 * [Paper cut bug](paper-cut-bug)
 * [Dark pattern](dark-pattern)
   
-### [Accessibility](accessibility)
+## [Digital inclusion](digital-inclusion)
 
-* [Digital inclusion](digital-inclusion)
 * [Cross-cultural communication](cross-cultural-communication)
 * [Communication styles](communication-styles)
 * [Screen reader](screen-reader)

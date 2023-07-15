@@ -9,7 +9,7 @@
 
 # UI/UX Design Primer
 
-<img src="README.png" alt="UI/UX Design Primer Logo" style="width: 100%;"/>
+<img src="README.jpg" alt="UI/UX Design Primer Logo" style="width: 100%;"/>
 
 UI/UX Design Primer: Concepts, Tactics, Ideas.
 
@@ -246,12 +246,14 @@ Conclusion
 * About the ebook
 * About related projects
 
-## More primers
-
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+## All our primers
 
 * [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
 
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
 
 * [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+
+* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+
+* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
