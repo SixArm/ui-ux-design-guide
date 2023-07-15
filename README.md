@@ -1,5 +1,5 @@
 <!--
-  * browser: ui-ux-primer
+  * browser: ui-ux-design-primer
   * tracker: d3f018d32305ea599dc4b9e6f132e495
   * version: 1.3.0
   * updated: 2023-07-08T17:38:30Z
@@ -7,16 +7,16 @@
   * options: commentable
 -->
 
-# UI/UX Primer
+# UI/UX Design Primer
 
-<img src="README.png" alt="UI/UX Primer Logo" style="width: 100%;"/>
+<img src="README.png" alt="UI/UX Design Primer Logo" style="width: 100%;"/>
 
-UI/UX Primer: Concepts, Tactics, Ideas.
+UI/UX Design Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-* Download the [free e-book](ui-ux-primer.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/ui-ux-primer).
+* Download the [free e-book](ui-ux-design-primer.pdf).
+* If you wish, [pay what you want](https://gumroad.com/l/ui-ux-design-primer).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
@@ -249,6 +249,8 @@ Conclusion
 ## More primers
 
 * [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
 
 * [Project Management Primer](https://github.com/sixarm/project-management-primer)
 

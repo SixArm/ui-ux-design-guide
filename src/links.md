@@ -1,4 +1,4 @@
-### [Introduction](ui-ux-primer-introduction)
+### [Introduction](ui-ux-design-primer-introduction)
 
 ### [UI/UX](ui-ux)
 
@@ -160,7 +160,7 @@
 
 * [AI UI/UX](ai-ui-ux)
 * [AI form fill](ai-form-fill)
-* [AI product development](ai-product-development)
+* [AI for product development](ai-for-product-development)
 * [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
 * [AI internationalization/localization](ai-internationalization-localization)
@@ -210,7 +210,7 @@
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-### [Conclusion](ui-ux-primer-conclusion)
+### [Conclusion](ui-ux-design-primer-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)
