@@ -180,7 +180,7 @@
 * [Forms that Work by by Caroline Jarrett et al.](forms-that-work-by-by-caroline-jarrett-et-al)
 * [The Humane Interface by Jef Raskin](the-humane-interface-by-jef-raskin)
 
-### [UI/UX quotations](ui-ux-quotations)
+### [UI/UX design quotations](ui-ux-design-quotations)
 
 * [Learn early, learn often](learn-early-learn-often)
 * [Make mistakes faster](make-mistakes-faster)
@@ -222,3 +222,15 @@
 * [About the AI](about-the-ai)
 * [About the ebook](about-the-ebook-pdf)
 * [About related projects](about-related-projects)
+
+## All our primers
+
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+
+* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+
+* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
