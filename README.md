@@ -1,22 +1,20 @@
 <!--
-  * browser: ui-ux-design-primer
+  * browser: ui-ux-design-guide
   * tracker: d3f018d32305ea599dc4b9e6f132e495
   * version: 1.3.0
-  * updated: 2023-07-08T17:38:30Z
+  * updated: 2023-07-26T12:06:27Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
-# UI/UX Design Primer
+# UI/UX Design Guide
 
-<img src="README.jpg" alt="UI/UX Design Primer Logo" style="width: 100%;"/>
+<img src="README.jpg" alt="UI/UX Design Guide Logo" style="width: 100%;"/>
 
-UI/UX Design Primer: Concepts, Tactics, Ideas.
+UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-This is a glossary guide e-book, with one topic per page. 
-
-* Download the [free e-book](ui-ux-design-primer.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/ui-ux-design-primer).
+* Download the [free e-book](ui-ux-design-guide.pdf).
+* If you wish, [pay what you want](https://gumroad.com/l/ui-ux-design-guide).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
@@ -27,7 +25,7 @@ Introduction
 * What is this book?
 * Who is this for?
 * Why am I creating this?
-* Are there more primers?
+* Are there more guides?
 
 UI/UX
 
@@ -173,7 +171,7 @@ Internationalization and localization
 * Locale codes
 * Bidirectional text (bidi)
 
-UX/UX testing
+UI/UX testing
 
 * Split testing
 * End-to-end testing
@@ -216,7 +214,7 @@ Idioms
 * Think outside of the box
 * Out of scope
 * Over the horizon
-* For more see our Business Lingo Primer
+* For more see our Business Lingo Guide
 
 Aphorisms
 
@@ -224,7 +222,7 @@ Aphorisms
 * The Law of Conservation of Complexity (Tesler's Law)
 * The Pareto Principle (The 80/20 Rule)
 * Chesterton's fence
-* For more see our Business Lingo Primer
+* For more see our Business Lingo Guide
 
 Soft skills
 
@@ -246,14 +244,16 @@ Conclusion
 * About the ebook
 * About related projects
 
-## All our primers
+## All our guides
 
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
 
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
 
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
 
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)

@@ -1,4 +1,4 @@
-### [Introduction](ui-ux-design-primer-introduction)
+### [Introduction](ui-ux-design-guide-introduction)
 
 ### [UI/UX](ui-ux)
 
@@ -150,7 +150,7 @@
 * [Locale codes](locale-codes)
 * [Bidirectional text (bidi)](bidirectional-text)
 
-### [UX/UX testing](ui-ux-testing)
+### [UI/UX testing](ui-ux-testing)
 
 * [Split testing](split-testing)
 * [End-to-end testing](end-to-end-testing)
@@ -193,7 +193,7 @@
 * [Think outside of the box](think-outside-of-the-box)
 * [Out of scope](out-of-scope)
 * [Over the horizon](over-the-horizon)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
  
 ### [Aphorisms](aphorisms)
 
@@ -201,7 +201,7 @@
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [Chesterton's fence](chestertons-fence)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
 ### [Soft skills](soft-skills)
 
@@ -216,21 +216,9 @@
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-### [Conclusion](ui-ux-design-primer-conclusion)
+### [Conclusion](ui-ux-design-guide-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)
 * [About the ebook](about-the-ebook-pdf)
 * [About related projects](about-related-projects)
-
-## All our primers
-
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
-
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
-
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
-
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
-
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
