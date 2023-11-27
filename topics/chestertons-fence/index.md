@@ -1,0 +1,7 @@
+# Chesterton's fence
+
+Chesterton's fence is a principle of cautionary conservatism that states that before changing or removing something, it's important to first understand why it exists in the first place. The idea is that even if a particular practice or object may seem pointless or unnecessary to us, it likely served some purpose in the past that we may not be aware of.
+
+The principle is named after the writer and philosopher G.K. Chesterton, who wrote about it in his 1929 book "The Thing: Why I Am a Catholic." In the book, Chesterton uses the metaphor of a fence to illustrate the principle: imagine that you come across a fence in a field and don't understand why it's there. Rather than immediately tearing it down, it's important to investigate the purpose of the fence first. It could be there to keep animals from escaping, to prevent people from falling into a pit, or to mark the boundary of a property.
+
+The principle is often invoked in fields such as engineering, law, and public policy, where it's important to take a cautious and deliberate approach to change. By understanding why things are the way they are, we can avoid unintended consequences and make more informed decisions about how to move forward. It encourages critical thinking and reflection before making any changes, and is a reminder that just because something doesn't make sense to us doesn't mean it doesn't have a purpose or history.
