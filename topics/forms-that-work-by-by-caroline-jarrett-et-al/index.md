@@ -2,7 +2,7 @@
 
 "Forms that Work: Designing Web Forms for Usability" is a book written by Caroline Jarrett and Gerry Gaffney. It focuses on the design and usability of web forms, providing practical guidance and best practices for creating forms that are user-friendly and effective.
 
-Key concepts…
+**Key aspects**:
 
 User-Centered Design: The importance of adopting a user-centered approach when designing web forms. Jarrett emphasizes the need to understand the goals, expectations, and behaviors of users and align form design decisions with their needs and preferences.
 

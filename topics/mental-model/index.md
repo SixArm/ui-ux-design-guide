@@ -2,7 +2,7 @@
 
 A mental model is a cognitive framework or representation that individuals use to understand, interpret, and navigate the world around them. It is an internalized concept or schema that helps people make sense of complex information, predict outcomes, and guide their actions. Understanding and leveraging mental models can enhance learning, problem-solving, decision-making, and communication.
 
-Key points…
+**Key aspects**:
 
 Cognitive Framework: Mental models are how individuals organize and structure their understanding. They are shaped by knowledge, beliefs, experiences, and cultural background.
 

@@ -2,7 +2,7 @@
 
 Progressive enhancement is an approach to web or user interface (UI) design and development that focuses on delivering a basic, functional experience to all users, then adding enhanced features and functionality for those with more advanced or capable devices.
 
-Key concepts…
+**Key aspects**:
 
 Core Functionality: Ensure the core functionality of the system is usable by all users. Ensure proper semantic markup, basic navigation, and support for essential features that work for everyone.
 

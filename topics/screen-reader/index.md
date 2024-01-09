@@ -2,7 +2,7 @@
 
 A screen reader is an assistive technology software designed to help individuals with visual impairments or blindness access and interact with digital content. It is a crucial tool for ensuring inclusive user experiences in UI/UX design.
 
-Key points…
+**Key aspects**:
 
 Accessibility for the Visually Impaired: Screen readers provide an audio representation of the visual content on a digital interface. They read aloud the text, icons, buttons, and other elements on the screen, enabling individuals with visual impairments to understand and navigate the interface.
 

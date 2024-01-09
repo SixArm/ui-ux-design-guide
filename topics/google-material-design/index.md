@@ -2,7 +2,7 @@
 
 Google Material Design is a design language and set of guidelines developed by Google to create visually appealing and consistent user interfaces across different platforms and devices. It aims to provide a seamless and intuitive user experience by emphasizing a clean and modern design aesthetic, while also considering functionality and usability.
 
-Key principles…
+**Key aspects**:
 
 Material Metaphor: Represent a tangible surface that has depth and responds to user interactions, such as touch or motion. Use depth, shadows, and animations to help create hierarchy and interactivity.
 

@@ -2,7 +2,7 @@
 
 Microcopy refers to the small, concise blocks of text or copy that are used throughout digital interfaces to guide and assist users in their interactions. It includes labels, instructions, error messages, tooltips, button texts, and other short snippets of text that provide clarity, direction, and feedback to users.
 
-Key aspects…
+**Key aspects**:
 
 Clarity: Microcopy should be clear, concise, and easy to understand. It should communicate information in a straightforward manner without ambiguity or jargon.
 

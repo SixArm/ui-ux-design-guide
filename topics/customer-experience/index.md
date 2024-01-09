@@ -2,7 +2,7 @@
 
 Customer Experience (CX) refers to the overall perception and interaction a customer has with a company or brand throughout their entire journey, from the initial contact to post-purchase support. It encompasses every touchpoint and interaction between the customer and the business, including online experiences, customer service interactions, product usage, and more.
 
-Key elements…
+**Key aspects**:
 
 Touchpoints: Identify and optimize all touchpoints where customers interact with the brand, including websites, mobile apps, social media, physical stores, customer service channels, and more.
 

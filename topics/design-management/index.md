@@ -2,7 +2,7 @@
 
 Design management refers to the process of planning, coordinating, and overseeing the design activities within an organization to achieve strategic objectives and drive innovation. It involves managing the design function and integrating it into the broader business strategy and operations.
 
-Key aspects…
+**Key aspects**:
 
 Strategic Alignment: Align design activities with the organization's  strategy. Understand the business context, market dynamics, and customer needs to identify design opportunities and define design objectives.
 

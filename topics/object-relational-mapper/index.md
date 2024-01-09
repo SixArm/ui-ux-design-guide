@@ -2,7 +2,7 @@
 
 An Object-Relational Mapper (ORM) is a programming technique that allows developers to interact with a relational database using object-oriented programming (OOP) concepts. It provides a higher-level abstraction layer between the application code and the database, eliminating the need for manual SQL queries and reducing the complexity of data access.
 
-Key points…
+**Key aspects**:
 
 Mapping Objects to Tables: With an ORM, developers can define classes and objects in their application code that correspond to tables and records in a relational database. This mapping between objects and tables is typically done through annotations or configuration files.
 

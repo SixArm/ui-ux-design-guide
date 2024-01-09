@@ -2,7 +2,7 @@
 
 Anticipatory design is an approach to user experience (UX) design that focuses on predicting and fulfilling user needs and actions before they explicitly express them. It involves using data, context, and intelligent algorithms to proactively provide users with relevant information, options, or interactions, thereby simplifying their decision-making process and enhancing their overall experience.
 
-Key techniques…
+**Key aspects**:
 
 Context Awareness: Leverage real-time data and contextual information to understand the user's current situation, environment, and needs, to deliver personalized and relevant content or features.
 

@@ -2,7 +2,7 @@
 
 Cognitive Task Analysis (CTA) is a research methodology used to understand the cognitive processes and mental strategies that individuals employ while performing a task. CTA aims to uncover the knowledge, decision-making, problem-solving, and other cognitive activities involved in completing a task. The goal is to bridge the gap between observable behaviors and underlying cognitive processes.
 
-Key techniques…
+**Key aspects**:
 
 Interviews: Interview subject matter experts and experienced individuals who perform the task. Use open-ended questions to learn about thought processes, decision-making strategies, problem-solving techniques, and other task-relevant cognitive aspects.
 

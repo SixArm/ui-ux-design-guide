@@ -2,7 +2,7 @@
 
 In the context of UI/UX design, a locale refers to the specific linguistic and cultural settings used to adapt a user interface for different regions or languages. It involves designing and implementing UI elements, content, and interactions that cater to the preferences and expectations of users in specific locales.
 
-Key considerations…
+**Key aspects**:
 
 Languages: Support multiple languages based on the user's locale. Translate user interface elements, labels, menus, messages, and other text into target languages. Handle text expansion, text contraction, or text direction changes that may occur.
 

@@ -6,7 +6,7 @@ Brainstorming is widely used in various settings, including business, education,
 
 During brainstorming, participants are encouraged to suspend judgment and criticism and focus on generating as many ideas as possible. After brainstorming, evaluate the ideas.
 
-Key principles…
+**Key aspects**:
 
 Quantity over Quality: Generate many ideas without immediately evaluating or analyzing their feasibility.
 

@@ -2,7 +2,7 @@
 
 User Experience (UX) refers to the overall experience and satisfaction of users when interacting with a product, system, or service. It focuses on understanding users' needs, behaviors, and emotions to design and deliver an enjoyable, intuitive, and meaningful experience.
 
-Key areas…
+**Key aspects**:
 
 User Research: Start with understanding the target users, their goals, and their pain points. Gather insights into user behaviors, preferences, and needs, by using methods like surveys, interviews, and observations.
 

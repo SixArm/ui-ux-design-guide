@@ -2,7 +2,7 @@
 
 Typography refers to the art and technique of arranging and designing typefaces (fonts) to make written language readable and visually appealing. It involves the selection, arrangement, and styling of typefaces, as well as considerations of spacing, line length, and overall layout. Typography plays a crucial role in graphic design, web design, branding, and various forms of visual communication.
 
-Key aspects…
+**Key aspects**:
 
 Typefaces: Typefaces, or fonts, are the different designs and styles of letterforms. They can range from classic serif fonts (with small decorative strokes at the ends of characters) to modern sans-serif fonts (without those strokes), script fonts, display fonts, and more.
 

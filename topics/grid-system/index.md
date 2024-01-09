@@ -4,7 +4,7 @@ A grid system in design refers to a structure or framework that helps organize a
 
 Benefits include improved organization of content, enhanced readability and usability, streamlined design process and faster production, and facilitated content updates and modifications.
 
-Key aspects…
+**Key aspects**:
 
 Grid Structure: A grid consists of a series of horizontal and vertical lines that create a framework of intersecting rows and columns. The number of columns and the spacing between them can vary based on the design requirements. Common grid structures include 12-column, 16-column, or flexible grid systems.
 

@@ -1,3 +1,3 @@
 #!/bin/sh
 top="$(git rev-parse --show-toplevel)"
-sed -n '/^## Contents/, /About the guides/p' "$top/README.md" | sed 's/(topics/(/'
+sed -n '/^## Contents/, /About related projects/p' "$top/README.md" | sed 's/(topics/(/'

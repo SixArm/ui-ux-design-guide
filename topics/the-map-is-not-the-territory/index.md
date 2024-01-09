@@ -4,7 +4,7 @@
 
 This encourages us to approach situations with openness, curiosity, and a willingness to consider multiple perspectives. By recognizing the limitations and biases in our mental maps, we can strive for better understanding, empathy, and effective communication with others.
 
-Key points…
+**Key aspects**:
 
 Subjective Interpretation: Each person constructs their own mental representation or "map" of the world based on their experiences, beliefs, cultural background, and other factors. This subjective interpretation can differ from person to person, leading to different perceptions and understandings of the same reality.
 

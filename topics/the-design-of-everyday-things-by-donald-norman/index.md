@@ -2,7 +2,7 @@
 
 "The Design of Everyday Things" is a book written by Donald Norman, a cognitive scientist and usability engineer. It explores the fundamental principles of design and usability, focusing on how the design of everyday objects and systems can either enhance or hinder their usability and user experience.
 
-Key concepts…
+**Key aspects**:
 
 Discoverability: The ease with which users can understand and discover the functions and features of an object or system. Norman emphasizes the importance of providing clear and intuitive cues to help users.
 

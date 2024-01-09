@@ -2,7 +2,7 @@
 
 A ribbon user interface is a graphical control that presents a set of commands or actions in a horizontal bar across the top of an application or document. The ribbon control is often used in productivity software, to provide a visually organized and easily accessible set of tools and options to users.
 
-Key characteristics…
+**Key aspects**:
 
 Grouping: Organize commands and actions into logical groups, such as formatting options, editing tools, or document-related functions. Each group is visually distinct, often represented by icons or text labels, making it easier for users to find and select the desired command.
 

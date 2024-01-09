@@ -2,7 +2,7 @@
 
 The Apple Human Interface Guidelines (HIG) are a set of design principles and recommendations provided by Apple Inc. to assist developers in creating user-friendly and visually appealing software applications for Apple platforms. The HIG covers various aspects of user interface design, including visual design, interaction design, and user experience guidelines.
 
-Key aspects…
+**Key aspects**:
 
 Design Themes: Embrace the design themes specific to each platform, such as clarity in iOS, or elegance in macOS. Create a visually consistent and intuitive user experience.
 

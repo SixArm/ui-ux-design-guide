@@ -2,7 +2,7 @@
 
 A progress indicator, in the context of user interface (UI) and user experience (UX) design, is a visual element that communicates the progress or status of a process, task, or operation to the user. They provide feedback to users that something is happening, and can help users understand the expected completion time.
 
-Key aspects…
+**Key aspects**:
 
 Visual Representation: Progress indicators visually represent the completion status of a process, often using elements such as a progress bar, percentage, spinner, or animated icon. These visual cues provide a clear indication of how far along the process is and how much more time or steps are remaining.
 

@@ -1,6 +1,6 @@
 # Internationalization and localization
 
-Internationalization and localization are steps in the process of creating software or a website that can be used by people in different regions of the world, from different cultures, and speaking different langauges.
+Internationalization and localization are steps in the process of creating software or a website that can be used by people in different regions of the world, from different cultures, and speaking different languages.
 
 Internationalization (often abbreviated as i18n) is the process of designing software or a website so that it can be easily localized for different languages, cultures, and regions.
 

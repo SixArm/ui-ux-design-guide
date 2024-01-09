@@ -2,7 +2,7 @@
 
 Oblique Strategies is a set of cards created by musician and producer Brian Eno and artist Peter Schmidt in the 1970s to help stimulate creative thinking and problem-solving. The cards contain aphorisms, instructions, and prompts designed to encourage lateral thinking and break free from conventional ways of approaching a problem.
 
-Key aspects…
+**Key aspects**:
 
 Purpose: The purpose of Oblique Strategies is to help individuals or groups break out of their creative ruts and explore new possibilities. The cards are designed to stimulate creative thinking and encourage people to approach problems and challenges from different angles.
 

@@ -2,7 +2,7 @@
 
 A Subject Matter Expert (SME) refers to an individual who possesses specialized knowledge, expertise, and experience in a specific subject area or field. SMEs provide subject-specific insights, guidance, and support. Their expertise is typically acquired through years of education, or work in a specific industry, or conducting research.
 
-Key aspects…
+**Key aspects**:
 
 Expertise and Knowledge: Advise colleagues and stakeholders by sharing subject knowledge and expertise. Clarify complex concepts, explain industry practices, shape priorities, and accelerate decision-making related to the subject area.
 

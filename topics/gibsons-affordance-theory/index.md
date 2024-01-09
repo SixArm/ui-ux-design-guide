@@ -2,7 +2,7 @@
 
 Gibson's affordance theory, developed by psychologist James J. Gibson, is a framework that explains how humans perceive and interact with their environment. Affordances are the perceived possibilities for action that the environment offers to an individual. Gibson's affordance theory has had a significant impact on various fields, including psychology, cognitive science, human-computer interaction, UI/UX, and design.
 
-Key points…
+**Key aspects**:
 
 * Perception-Action Coupling: Gibson proposed that perception and action are closely coupled. Perception is not simply the passive reception of sensory information but an active process that involves perceiving opportunities for action in the environment.
 

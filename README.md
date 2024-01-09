@@ -20,240 +20,242 @@ UI/UX Design Guide: this book explains one topic per page, like a big glossary, 
 
 ## Contents
 
-Introduction
+### [Introduction](topics/ui-ux-design-guide-introduction)
 
-* What is this book?
-* Who is this for?
-* Why am I creating this?
-* Are there more guides?
+### [UI/UX](topics/ui-ux)
 
-UI/UX
+* [User Interface (UI)](topics/user-interface)
+* [User Interface (UI) - benefits](topics/user-interface-benefits)
+* [User Experience (UX)](topics/user-experience)
+* [User Experience (UX) - benefits](topics/user-experience-benefits)
+* [Customer Experience (CX)](topics/customer-experience)
+* [Customer Experience (CX) - benefits](topics/customer-experience-benefits)
+* [Developer Experience (DX)](topics/developer-experience)
+* [Developer Experience (DX) - benefits](topics/developer-experience-benefits)
 
-* User Interface (UI) + benefits
-* User Experience (UX) + benefits
-* Customer Experience (CX) + benefits
-* Developer Experience (DX) + benefits
-* User-centered design (UCD)
-* Usability
-* Information architecture (IA)
+### [User-centered design (UCD)](topics/user-centered-design)
 
-Design thinking
+* [Usability](topics/usability)
+* [Accessibility](topics/accessibility)
+* [Information architecture (IA)](topics/information-architecture)
 
-* Empathy map
-* Focus group
-* Personas
-* Journeys
-* Voice of the Customer (VoC)
-* Subject matter expert (SME)
-* Design charrette
-* Mind map
-* Decision tree
-* Gamification
+### [Design thinking](topics/design-thinking)
 
-Design management
+* [Empathy map](topics/empathy-map) + [benefits](topics/empathy-map-benefits)
+* [Focus group](topics/focus-group)
+* [Personas](topics/personas)
+* [Journeys](topics/journeys)
+* [Voice of the Customer (VoC)](topics/voice-of-the-customer)
+* [Subject matter expert (SME)](topics/subject-matter-expert)
+* [Design charrette](topics/design-charrette)
+* [Mind map](topics/mind-map)
+* [Decision tree](topics/decision-tree)
+* [Gamification](topics/gamification)
 
-* Design system
-* Style guide
-* Pattern library
-* UK Government Design Principles
-* Apple Human Interface Guidelines (HIG)
-* Google Material Design
+### [Design management](topics/design-management)
 
-Task analysis
+* [Design system](topics/design-system)
+* [Style guide](topics/style-guide)
+* [Pattern library](topics/pattern-library)
+* [UK Government Design Principles](topics/uk-government-design-principles)
+* [Apple Human Interface Guidelines (HIG)](topics/apple-human-interface-guidelines)
+* [Google Material Design](topics/google-material-design)
+  
+### [Task analysis](topics/task-analysis)
 
-* Cognitive task analysis (CTA)
-* Hierarchical task analysis (HTA)
-* Workflow analysis (HTA)
-* Critical incident technique (CIT)
-* Diary study
-* Anticipatory design
+* [Cognitive task analysis (CTA)](topics/cognitive-task-analysis)
+* [Hierarchical task analysis (HTA)](topics/hierarchical-task-analysis)
+* [Workflow analysis (HTA)](topics/workflow-analysis)
+* [Critical incident technique (CIT)](topics/critical-incident-technique)
+* [Diary study](topics/diary-study)
+* [Anticipatory design](topics/anticipatory-design)
 
-Ideation
+### [Ideation](topics/ideation)
 
-* Creative thinking techniques
-* Brainstorming
-* Active listening
-* Thinking hats
-* SCAMPER
-* Futurespective
-* Storyboard
-* Storyboard - steps
-* Mental model
-* The map is not the territory
-* Vision board
-* Oblique strategies
-* Abramović method
+* [Creative thinking techniques](topics/creative-thinking-techniques)
+* [Brainstorming](topics/brainstorming)
+* [Active listening](topics/active-listening)
+* [Thinking hats](topics/thinking-hats)
+* [SCAMPER](topics/scamper)
+* [Futurespective](topics/futurespective)
+* [Storyboard](topics/storyboard)
+* [Storyboard - steps](topics/storyboard-steps)
+* [Mental model](topics/mental-model)
+* [Dendrogram](topics/dendrogram)
+* [The map is not the territory](topics/the-map-is-not-the-territory)
+* [Vision board](topics/vision-board)
+* [Oblique strategies](topics/oblique-strategies)
+* [Abramović method](topics/abramovic-method)
 
-Product design
+### [Product design](topics/product-design)
 
-* Design canvas
-* Mockups
-* Wireframes
-* Use cases
-* User stories
-* Use cases versus user stories
-* MoSCoW method
-* Low-fidelity prototype
-* High-fidelity prototype
-* WYSIWYG
-* Kaizen a.k.a. continuous improvement
+* [Design canvas](topics/design-canvas)
+* [Mockups](topics/mockups)
+* [Wireframes](topics/wireframes)
+* [Use cases](topics/use-cases)
+* [User stories](topics/user-stories)
+* [Use cases versus user stories](topics/use-cases-and-user-stories)
+* [MoSCoW method](topics/moscow-method)
+* [Low-fidelity prototype](topics/low-fidelity-prototype)
+* [High-fidelity prototype](topics/high-fidelity-prototype)
+* [WYSIWYG](topics/wysiwyg)
+* [Kaizen a.k.a. continuous improvement](topics/kaizen)
+* [Cognitive load](topics/cognitive-load)
+* [Cognitive load - recommendations](topics/cognitive-load-recommendations)
+* [Usability friction](topics/usability-friction)
+* [Usability friction - recommendations](topics/usability-friction-recommendations)
+* [Jakob’s Ten Usability Heuristics](topics/jakobs-ten-usability-heuristics)
 
-Modeling diagrams
+### [Modeling diagrams](topics/modeling-diagrams)
 
-* Activity diagram
-* Sequence diagram
-* Use case diagram
-* State diagram
-* Timing diagram
-* Cause-and-effect diagram
+* [Activity diagram](topics/activity-diagram)
+* [Sequence diagram](topics/sequence-diagram)
+* [Use case diagram](topics/use-case-diagram)
+* [State diagram](topics/state-diagram)
+* [Timing diagram](topics/timing-diagram)
+* [Cause-and-effect diagram](topics/cause-and-effect-diagram)
 * Fishbone diagram: see cause-and-effect diagram
 * Ishikawa diagram: see cause-and-effect diagram
-* Unified Modeling Language (UML)
-* PlantUML
-* Mermaid.js
+* [Unified Modeling Language (UML)](topics/unified-modeling-language)
+* [PlantUML](topics/plantuml)
+* [Mermaid.js](topics/mermaid-js)
 
-North Star
+### [North Star](topics/north-star)
 
-* Big Hairy Audacious Goal (BHAG)
-* Strategic balanced scorecard (SBS)
-* Big design up front (BDUF)
-* Domain-Driven Design (DDD)
-* Behavior-Driven Development (BDD)
-* Test-Driven Development (TDD)
+* [Big Hairy Audacious Goal (BHAG)](topics/big-hairy-audacious-goal)
+* [Strategic balanced scorecard (SBS)](topics/strategic-balanced-scorecard)
+* [Big design up front (BDUF)](topics/big-design-up-front)
+* [Domain-Driven Design (DDD)](topics/domain-driven-design)
+* [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
+* [Test-Driven Development (TDD)](topics/test-driven-development)
 
-Affordances
+### [Affordances](topics/affordance)
 
-* Gibson's affordance theory
-* Accordion UI
-* Drawer UI
-* Ribbon UI
-* Tree UI
-* Wizard UI
-* Progress indicator
-* Header and footer
-* Site map
-* ARIA attributes
-* Model-View-Controller (MVC)
-* Paper cut bug
-* Dark pattern
+* [Gibson's affordance theory](topics/gibsons-affordance-theory)
+* [Accordion UI](topics/accordion-ui)
+* [Drawer UI](topics/drawer-ui)
+* [Ribbon UI](topics/ribbon-ui)
+* [Tree UI](topics/tree-ui)
+* [Wizard UI](topics/wizard-ui)
+* [Progress indicator](topics/progress-indicator)
+* [Header and footer](topics/header-and-footer)
+* [Site map](topics/site-map)
+* [ARIA attributes](topics/aria-attributes)
+* [Model-View-Controller (MVC)](topics/model-view-controller)
+* [Paper cut bug](topics/paper-cut-bug)
+* [Dark pattern](topics/dark-pattern)
+  
+## [Digital inclusion](topics/digital-inclusion)
 
-Accessibility
+* [Cross-cultural communication](topics/cross-cultural-communication)
+* [Communication styles](topics/communication-styles)
+* [Screen reader](topics/screen-reader)
+* [Keyboard shortcut (a.k.a. hotkey)](topics/keyboard-shortcut)
+* [Alternative text attribute](topics/alternative-text-attribute)
+* [Web Content Accessibility Guidelines (WCAG)](topics/web-content-accessibility-guidelines)
+* [UI for color blindness](topics/ui-for-color-blindness)
 
-* Digital inclusion
-* Cross-cultural communication
-* Communication styles
-* Screen reader
-* Keyboard shortcut (a.k.a. hotkey)
-* Alternative text attribute
-* Web Content Accessibility Guidelines (WCAG)
-* UI for color blindness
+### [UI/UX implementation](topics/ui-ux-implementation)
 
-UI/UX implementation
+* [Typography](topics/typography)
+* [Copywriting](topics/copywriting)
+* [Microcopy](topics/microcopy)
+* [Iconography](topics/iconography)
+* [Grid system](topics/grid-system)
+* [Mobile-first design](topics/mobile-first-design)
+* [Reactive UI](topics/reactive-ui)
+* [Low-code / no-code](topics/low-code-no-code)
+* [Text-To-Speech (TTS) and Speech-To-Text (STT)](topics/text-to-speech-and-speech-to-text)
+* [Progressive enhancement](topics/progressive-enhancement)
+* [Graceful degradation](topics/graceful-degradation)
+* [Data schema](topics/data-schema)
+* [Object-Relational Mapper (ORM)](topics/object-relational-mapper)
 
-* Typography
-* Copywriting
-* Microcopy
-* Iconography
-* Grid system
-* Mobile-first design
-* Reactive UI
-* Low-code / no-code
-* Text-To-Speech (TTS) and Speech-To-Text (STT)
-* Progressive enhancement
-* Graceful degradation
-* Data schema
-* Object-Relational Mapper (ORM)
+### [Internationalization and localization](topics/internationalization-and-localization)
 
-Internationalization and localization
+* [Internationalization and localization - steps](topics/internationalization-and-localization-steps)
+* [Locale](topics/locale)
+* [Locale codes](topics/locale-codes)
+* [Bidirectional text (bidi)](topics/bidirectional-text)
 
-* Internationalization and localization - steps
-* Locale
-* Locale codes
-* Bidirectional text (bidi)
+### [UI/UX testing](topics/ui-ux-testing)
 
-UI/UX testing
+* [Split testing](topics/split-testing)
+* [End-to-end testing](topics/end-to-end-testing)
+* [Acceptance testing](topics/acceptance-testing)
+* [Localization testing](topics/localization-testing)
+* [Accessibility testing](topics/accessibility-testing)
+* [Screen reader testing](topics/screen-reader-testing)
+* [Benchmark testing](topics/benchmark-testing)
+* [Shift-left testing](topics/shift-left-testing)
+* [Heatmap](topics/heatmap)
 
-* Split testing
-* End-to-end testing
-* Acceptance testing
-* Localization testing
-* Accessibility testing
-* Screen reader testing
-* Benchmark testing
-* Shift-left testing
-* Heatmap
+### [Artificial intelligence (AI)](topics/artificial-intelligence)
 
-Artificial intelligence (AI)
+* [AI UI/UX](topics/ai-ui-ux)
+* [AI form fill](topics/ai-form-fill)
+* [AI for product development](topics/ai-for-product-development)
+* [AI content generator](topics/ai-content-generator)
+* [AI image generation](topics/ai-image-generation)
+* [AI internationalization/localization](topics/ai-internationalization-localization)
+ 
+### [Books about UI/UX](topics/books-about-ui-ux)
 
-* AI UI/UX
-* AI form fill
-* AI product development
-* AI content generator
-* AI image generation
-* AI internationalization/localization
+* [Universal Principles of Design by William Lidwell et al.](topics/universal-principles-of-design-by-william-lidwell-et-al)
+* [The Design of Everyday Things by Donald Norman](topics/the-design-of-everyday-things-by-donald-norman)
+* [Envisioning Information by Edward R. Tufte](topics/envisioning-information-by-edward-r-tufte)
+* [Don't Make Me Think by Steve Krug](topics/dont-make-me-think-by-steve-krug)
+* [Forms that Work by by Caroline Jarrett et al.](topics/forms-that-work-by-by-caroline-jarrett-et-al)
+* [The Humane Interface by Jef Raskin](topics/the-humane-interface-by-jef-raskin)
 
-Books about UI/UX
+### [UI/UX design quotations](topics/ui-ux-design-quotations)
 
-* Universal Principles of Design by William Lidwell et al.
-* The Design of Everyday Things by Donald Norman
-* Envisioning Information by Edward R. Tufte
-* Don't Make Me Think by Steve Krug
-* Forms that Work by by Caroline Jarrett et al.
-* The Humane Interface by Jef Raskin
+* [Learn early, learn often](topics/learn-early-learn-often)
+* [Make mistakes faster](topics/make-mistakes-faster)
+* [Perfect is the enemy of good](topics/perfect-is-the-enemy-of-good)
+* [Data beats emotions](topics/data-beats-emotions)
 
-UI/UX quotations
+### [Idioms](topics/idioms)
 
-* Learn early, learn often
-* Make mistakes faster
-* Perfect is the enemy of good
-* Data beats emotions
+* [Quick wins](topics/quick-wins)
+* [Think outside of the box](topics/think-outside-of-the-box)
+* [Out of scope](topics/out-of-scope)
+* [Over the horizon](topics/over-the-horizon)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+ 
+### [Aphorisms](topics/aphorisms)
 
-Idioms
+* [The Law of Demos (Kapor's Law)](topics/the-law-of-demos)
+* [The Law of Conservation of Complexity (Tesler's Law)](topics/the-law-of-conservation-of-complexity)
+* [The Pareto Principle (The 80/20 Rule)](topics/the-pareto-principle)
+* [Chesterton's fence](topics/chestertons-fence)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
-* Quick wins
-* Think outside of the box
-* Out of scope
-* Over the horizon
-* For more see our Business Lingo Guide
+### [Soft skills](topics/soft-skills)
 
-Aphorisms
+* [How to create a UI/UX portfolio](topics/how-to-create-a-ui-ux-portfolio)
+* [How to sketch a user interface](topics/how-to-sketch-a-user-interface)
+* [How to run a focus group](topics/how-to-run-a-focus-group)
+* [How to give a demo](topics/how-to-give-a-demo)
+* [How to interview a user](topics/how-to-interview-a-user)
+* [How to collaborate](topics/how-to-collaborate)
+* [How to lead a meeting](topics/how-to-lead-a-meeting)
+* [How to work with stakeholders](topics/how-to-work-with-stakeholders)
+* [How to get feedback](topics/how-to-get-feedback)
+* [How to give feedback](topics/how-to-give-feedback)
 
-* The Law of Demos (Kapor's Law)
-* The Law of Conservation of Complexity (Tesler's Law)
-* The Pareto Principle (The 80/20 Rule)
-* Chesterton's fence
-* For more see our Business Lingo Guide
+### [Conclusion](topics/ui-ux-design-guide-conclusion)
 
-Soft skills
-
-* How to create a UI/UX portfolio
-* How to sketch a user interface
-* How to run a focus group
-* How to give a demo
-* How to interview a user
-* How to collaborate
-* How to lead a meeting
-* How to work with stakeholders
-* How to get feedback
-* How to give feedback
-
-Conclusion
-
-* About the editor
-* About the AI
-* About the ebook
-* About related projects
+* [About the editor](topics/about-the-editor)
+* [About the AI](topics/about-the-ai)
+* [About the ebook](topics/about-the-ebook-pdf)
+* [About related projects](topics/about-related-projects)
 
 ## All our guides
 
 * [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
-
 * [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
-
 * [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
-
 * [Project Management Guide](https://github.com/sixarm/project-management-guide)
-
 * [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
-
 * [Software Programming Guide](https://github.com/sixarm/software-programming-guide)

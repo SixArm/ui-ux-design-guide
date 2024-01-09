@@ -2,7 +2,7 @@
 
 Localization testing is a type of software testing that focuses on ensuring that the software or application can be adapted to different languages, cultures, and regions without losing functionality or usability. Localization testing is typically carried out by a team of testers who are familiar with the target regions and languages.
 
-Key aspects…
+**Key aspects**:
 
 User Interface (UI) and User Experience (UX): The UI/UX of the application should be tested to ensure that it can handle different languages and scripts without breaking the design or functionality.
 

@@ -1,0 +1,8 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+"$top/bin/topics" | 
+while read -r topic; do 
+    echo "$topic"
+    rsync -av "$HOME/git/sixarm/topics/topics/$topic/" "$top/topics/$topic/"
+done

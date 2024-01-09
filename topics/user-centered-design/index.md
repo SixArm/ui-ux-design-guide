@@ -2,7 +2,7 @@
 
 User-centered design (UCD) is an approach to designing products, systems, or interfaces that places the needs, goals, and preferences of the end users at the forefront of the design process. It involves understanding the users through research and iterative testing, and using that knowledge to guide design decisions. Benefits include improved user satisfaction, enhanced usability, reduced development costs, and ultimately a competitive advantage.
 
-Key principles…
+**Key aspects**:
 
 User Involvement: Emphasize involving users throughout the design process. Achieve this via techniques such as user research, user interviews, surveys, and usability testing. Gain insights into user needs, preferences, and pain points. Consider factors such as the physical environment, user characteristics, technological constraints, and social or cultural influences.
 

@@ -2,7 +2,7 @@
 
 A keyboard shortcut, also known as a hotkey or key combination, is a combination of one or more keys on a computer keyboard that triggers a specific action or command in a software application or operating system. Keyboard shortcuts are designed to provide a quick and efficient way for users to perform common tasks. Examples include Ctrl+C (copy), Ctrl+V (paste), and Alt+Tab (switch between open applications).
 
-Key points…
+**Key aspects**:
 
 Accelerate Workflow: Keyboard shortcuts can significantly speed up workflows by eliminating the need to navigate through menus or use the mouse for every action.
 

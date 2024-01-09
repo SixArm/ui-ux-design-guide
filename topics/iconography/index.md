@@ -2,7 +2,7 @@
 
 Iconography refers to the use and design of icons, which are visual representations or symbols that convey meaning or represent concepts, objects, actions, or ideas. Icons are widely used in various fields, including user interfaces (UI), graphic design, signage, and communication to communicate information quickly and effectively.
 
-Key aspects…
+**Key aspects**:
 
 Visual Communication: Icons are designed to be easily recognizable, using simple shapes, colors, and symbols. They facilitate quick and efficient communication, especially in situations where language barriers exist or when information needs to be conveyed in a compact and visually appealing manner.
 

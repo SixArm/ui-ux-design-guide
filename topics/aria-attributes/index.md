@@ -2,7 +2,7 @@
 
 The ARIA (Accessible Rich Internet Applications) attributes are a set of HTML attributes that can be used to enhance the accessibility of web content for individuals with disabilities. ARIA attributes are particularly useful for making dynamic web applications and interactive components more accessible to assistive technologies, such as screen readers.
 
-Key points…
+**Key aspects**:
 
 Purpose: ARIA attributes provide additional information to assistive technologies that cannot be conveyed through standard HTML tags. They help describe the functionality, state, and behavior of elements in a way that can be interpreted by screen readers and other assistive devices.
 

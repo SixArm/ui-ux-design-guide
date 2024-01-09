@@ -4,7 +4,7 @@ Information architecture (IA) is the practice of organizing, structuring, and la
 
 Information architects work closely with designers, developers, content creators, and stakeholders to create successful information architecture for a given system.
 
-Key aspects…
+**Key aspects**:
 
 Structure: Organize information in meaningful ways. Determine categories, annotations, tags, and relationships between different pieces of information. Reflect users' mental models.
 

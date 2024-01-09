@@ -2,7 +2,7 @@
 
 Copywriting is the art and skill of writing persuasive and engaging content with the intention of promoting a product, service, or idea. It involves crafting written material that grabs attention, communicates a message effectively, and motivates the reader to take a desired action, such as making a purchase, signing up for a newsletter, or sharing information.
 
-Key elements…
+**Key aspects**:
 
 Understand the audience: Know the target audience's needs, desires, challenges, and motivations.
 

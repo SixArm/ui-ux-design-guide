@@ -2,7 +2,7 @@
 
 A tree user interface is a graphical control that displays hierarchical data in a tree-like structure. It allows users to navigate and interact with a hierarchical set of items or categories, typically represented as nodes and branches. Tree controls are commonly used in various applications, including file explorers, project management tools, organizational charts, and content management systems.
 
-Key points…
+**Key aspects**:
 
 Hierarchical Data Representation: Represent hierarchical data, where items or categories have parent-child relationships. Organize data, showing the relationships between different levels of information.
 

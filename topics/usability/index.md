@@ -4,7 +4,7 @@ Usability refers to the ease of use and effectiveness of a product, system, or i
 
 Benefits can include enhanced user experience, increased productivity, reduced support costs, reduced errors, and competitive advantages.
 
-Key principles…
+**Key aspects**:
 
 Learnability: Users can quickly understand and learn how to use a system. Intuitive interfaces, clear instructions, and familiar design patterns contribute to learnability.
 

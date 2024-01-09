@@ -2,7 +2,7 @@
 
 A wizard user interface is a step-by-step interactive process that guides users through a series of tasks or decisions. It is designed to simplify complex processes and make them more manageable for users by breaking them down into smaller, sequential steps. Wizards are commonly used in a variety of applications and scenarios, such as user registrations, onboarding processes, form submissions, configuration setups, and complex task workflows.
 
-Key points…
+**Key aspects**:
 
 Task Chunking: Break down complex tasks or processes into smaller, more manageable chunks. This helps users focus on one step at a time, reducing cognitive load and making the overall process easier.
 

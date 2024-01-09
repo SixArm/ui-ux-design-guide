@@ -2,7 +2,7 @@
 
 In the context of localization and internationalization, a locale is a combination of language code, country code, script code, region code, and variant code. This defines a specific linguistic and cultural context. For example, "en-US" represents English in the United States.
 
-Key codes…
+**Key aspects**:
 
 Language Code: Represents a specific language. It is typically represented by a two-letter or three-letter code defined by international standards, such as ISO 639-1 or ISO 639-3. For example, "en" represents English.
 

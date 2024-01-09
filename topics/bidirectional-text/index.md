@@ -4,7 +4,7 @@ Bidirectional (bidi) text refers to text that combines both left-to-right (LTR) 
 
 Designing user interfaces (UI) and user experiences (UX) that accommodate bidirectional text requires special considerations to ensure readability and proper alignment.
 
-Key aspects…
+**Key aspects**:
 
 Text Direction: Ensure that LTR scripts and RTR are aligned and displayed correctly. The text direction should follow the natural reading order of the respective languages.
 

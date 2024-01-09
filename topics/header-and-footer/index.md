@@ -6,7 +6,7 @@ A header and footer are two essential components of a website's layout that appe
 
 * Footer: The footer is positioned at the bottom of the web page and often contains secondary navigation menus, copyright information, legal disclaimers, links to important pages (such as privacy policy or terms of service), and contact details. The footer is typically less prominent than the header but still serves as a navigational aid and provides additional information or links for users.
 
-Key characteristics…
+**Key aspects**:
 
 Consistency: The header and footer are consistent elements that appear across all pages of a website. This helps users navigate easily and find information regardless of their location within the website.
 

@@ -2,7 +2,7 @@
 
 In web design and accessibility, the "alt" attribute (short for alternative text) is used to provide a text alternative for images. It is an important accessibility feature that allows users who are visually impaired or using assistive technologies, such as screen readers, to understand and interpret the content of an image.
 
-Key aspects…
+**Key aspects**:
 
 Text Alternative: The alt attribute allows you to describe the content and purpose of an image in text format. This description should be concise, accurate, and meaningful. It should convey the same message or convey the intended context that the image is trying to communicate.
 

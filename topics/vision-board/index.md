@@ -2,7 +2,7 @@
 
 A vision board is a visual representation of your goals, dreams, and aspirations. It is a tool that helps you clarify and visualize what you want to achieve in different areas of your life, such as career, relationships, health, or personal growth.
 
-Key aspects…
+**Key aspects**:
 
 Set Your Intentions: Imagine your goals and aspirations. What do you want to achieve in different aspects of your life? Consider short-term and long-term goals. Be specific about what you want.
 

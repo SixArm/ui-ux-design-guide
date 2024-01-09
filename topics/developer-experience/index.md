@@ -2,7 +2,7 @@
 
 Developer Experience (DX) refers to the overall experience and satisfaction of software developers when working with tools, frameworks, libraries, and APIs to create applications or software solutions. It encompasses the usability, efficiency, effectiveness, and enjoyment that developers derive from their development process and the tools they use.
 
-Key areas…
+**Key aspects**:
 
 Documentation: Well-written documentation, tutorials, code samples, and reference materials make it easier for developers to learn, troubleshoot, and integrate offerings into their projects.
 

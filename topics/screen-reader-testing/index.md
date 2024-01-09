@@ -2,7 +2,7 @@
 
 Screen reader testing is the process of evaluating the accessibility and usability of a digital interface for individuals who rely on screen readers to access content. It involves assessing how well a website, application, or other digital product can be perceived, navigated, and interacted with using a screen reader.
 
-Key aspects…
+**Key aspects**:
 
 * Screen Reader Selection: There are several screen readers available, such as JAWS, NVDA, and VoiceOver. Choose the screen reader(s) that align with your target audience and platform requirements.
 

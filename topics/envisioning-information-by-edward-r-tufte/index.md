@@ -2,7 +2,7 @@
 
 "Envisioning Information" is a book written by Edward R. Tufte, a professor emeritus of statistics and information design. The book explores the effective visual representation of data and information, emphasizing the principles and techniques for presenting complex information in a clear and engaging manner, such as via charts, graphs, maps, diagrams, and illustrations.
 
-Key concepts…
+**Key aspects**:
 
 Data-Ink Ratio: Maximize the proportion of ink or graphical elements that directly represent the data, while minimizing non-essential decoration or "chartjunk."
 

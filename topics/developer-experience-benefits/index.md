@@ -2,7 +2,7 @@
 
 DX focuses on improving the productivity, efficiency, and satisfaction of developers by providing them with well-designed and developer-friendly tools, documentation, resources, and support. It recognizes that developers are the key users and stakeholders in the software development process, and their experience directly impacts the quality and speed of application development.
 
-Key aspects…
+**Key aspects**:
 
 Increased Productivity: A positive DX boosts developer productivity by reducing the time and effort required to accomplish tasks. Well-designed tools, efficient workflows, and clear documentation enable developers to focus on coding and problem-solving rather than dealing with unnecessary obstacles or inefficiencies.
 

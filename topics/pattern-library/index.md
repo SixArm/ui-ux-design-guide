@@ -2,7 +2,7 @@
 
 A pattern library is a centralized collection of reusable design components, patterns, and guidelines that help maintain consistency and efficiency in the design and development of digital products. It serves as a reference and resource for designers, developers, and other stakeholders involved in creating and maintaining a product's user interface.
 
-Key points…
+**Key aspects**:
 
 Design Consistency: Provide a set of standardized design elements that ensure visual and functional consistency. For example, include buttons, forms, typography, navigation menus, cards, and more.
 

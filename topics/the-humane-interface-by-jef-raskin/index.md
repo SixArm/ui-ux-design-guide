@@ -2,7 +2,7 @@
 
 "The Humane Interface: New Directions for Designing Interactive Systems" is a book written by Jef Raskin, an American human-computer interaction expert. The book explores Raskin's vision for designing user interfaces that are more intuitive, efficient, and user-friendly.
 
-Key concepts…
+**Key aspects**:
 
 User-Centered Design: Prioritize the needs, goals, and mental models of the users. Understanding user behavior and cognitive processes is crucial for creating interfaces.
 

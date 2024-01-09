@@ -2,7 +2,7 @@
 
 Reactive UI, also known as Reactive User Interface, is an approach to user interface design and development that focuses on building responsive and interactive user interfaces. It involves designing UI components that react to changes in data or user input, providing a dynamic and engaging user experience. Reactive UI is often associated with reactive programming frameworks such as React and Angular.
 
-Key concepts…
+**Key aspects**:
 
 Data Binding: Reactive UI frameworks provide mechanisms for establishing data bindings between the UI components and the underlying data model. This allows the UI to automatically update.
 

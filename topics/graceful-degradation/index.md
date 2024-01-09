@@ -2,7 +2,7 @@
 
 Graceful degradation, in the context of UI/UX design, refers to a design approach that ensures a website or application functions and remains usable even when certain features or technologies are not supported or available in the user's environment. Graceful degradation is the complement of progressive enhancement.
 
-Key points…
+**Key aspects**:
 
 User Experience: Aim to provide a positive user experience for all users, regardless of their device, browser, or technological limitations. Ensures that even if a user's system does not support certain features, they can still access and interact with the core functionality of the website or application.
 

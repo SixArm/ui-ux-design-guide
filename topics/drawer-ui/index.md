@@ -2,7 +2,7 @@
 
 A drawer user interface, also known as a slide-out menu or navigation panel, is a graphical control that provides a hidden panel that can be revealed by sliding it into view from the edge of the screen. It is commonly used in mobile and web applications to display additional navigation options or content without taking up much screen space.
 
-Key characteristics…
+**Key aspects**:
 
 Space Efficiency: Optimize screen space by hiding secondary navigation or content behind a collapsible panel. Provide a compact and unobtrusive way to present additional options or functionality.
 
