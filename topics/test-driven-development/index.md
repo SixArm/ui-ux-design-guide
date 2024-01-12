@@ -2,13 +2,13 @@
 
 Test-driven development (TDD) is a software development practice that emphasizes writing automated tests before writing code. In this approach, developers write a test case first, which describes an aspect of the code that they want to implement, and then they write the code to make the test pass. TDD is a part of the Agile software development methodology.
 
-The TDD cycle involves three steps:
+**Steps:**
 
-1. Red: The developer writes a test that fails because the code that implements the test is not yet written.
+1. **Red:** The developer writes a test that fails because the code that implements the test is not yet written.
 
-2. Green: The developer writes the minimum amount of code necessary to make the test pass.
+2. **Green:** The developer writes the minimum amount of code necessary to make the test pass.
 
-3. Refactor: The developer improves the code to make it more maintainable, readable, and efficient.
+3. **Refactor:** The developer improves the code to make it more maintainable, readable, and efficient.
 
 TDD provides several benefits to software development, including improved code quality, better test coverage, increased confidence in code changes, and reduced debugging time. By writing tests first, developers can ensure that their code meets the requirements of the test case, which can help to prevent bugs and catch issues earlier in the development process.
 

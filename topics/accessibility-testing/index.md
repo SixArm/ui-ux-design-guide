@@ -4,7 +4,7 @@ Accessibility testing is the process of evaluating a website, application, or pr
 
 Accessibility testing helps to ensure that people with disabilities have equal access to digital services and content, and it can also help businesses avoid potential legal issues related to accessibility.
 
-* **Key aspects**:
+**Key aspects:**
 
 * **Compliance with Accessibility Standards**: Accessibility standards are a set of guidelines and rules that are designed to ensure that digital content and services are accessible to people with disabilities. Common accessibility standards include the Web Content Accessibility Guidelines (WCAG), the Americans with Disabilities Act (ADA), and the Rehabilitation Act.
 

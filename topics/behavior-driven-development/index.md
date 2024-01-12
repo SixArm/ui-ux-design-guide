@@ -4,11 +4,11 @@ Behavior Driven Development (BDD) is an agile software development methodology t
 
 BDD follows a three-step process to define and implement the desired behavior of the system:
 
-1. Define the behavior in scenarios.
+1. **Define** the behavior in scenarios.
 
-2. Implement the code to support the scenarios.
+2. **Implement** the code to support the scenarios.
 
-3. Validate the implemented code against the scenarios.
+3. **Validate** the implemented code against the scenarios.
 
 This process ensures that the system is developed to meet the business requirements, and that the code is tested to ensure that it behaves as expected.
 

@@ -6,20 +6,20 @@ Brainstorming is widely used in various settings, including business, education,
 
 During brainstorming, participants are encouraged to suspend judgment and criticism and focus on generating as many ideas as possible. After brainstorming, evaluate the ideas.
 
-**Key aspects**:
+**Key aspects:**
 
-Quantity over Quality: Generate many ideas without immediately evaluating or analyzing their feasibility.
+* **Quantity over Quality:** Generate many ideas without immediately evaluating or analyzing their feasibility.
 
-Non-judgmental Atmosphere: Refrain from criticizing or evaluating ideas during the brainstorming phase.
+* **Non-judgmental Atmosphere:** Refrain from criticizing or evaluating ideas during the brainstorming phase.
 
-Free Thinking: Encourage ideas that are unconventional, imaginative, and even seemingly wild.
+* **Free Thinking:** Encourage ideas that are unconventional, imaginative, and even seemingly wild.
 
-Build on Ideas: Build on or combine the ideas of others. This promotes collaboration and interaction.
+* **Build on Ideas:** Build on or combine the ideas of others. This promotes collaboration and interaction.
 
-Participation: Give everyone an opportunity to contribute, such as via round-robin or equal airtime.
+* **Participation:** Give everyone an opportunity to contribute, such as via round-robin or equal airtime.
 
-Timebox: Set a time limit for the brainstorming phase, to helps maintain focus and energy.
+* **Timebox:** Set a time limit for the brainstorming phase, to helps maintain focus and energy.
 
-Capture: Document ideas in a visible accessible format, such as a whiteboard, flipchart, or web app.
+* **Capture:** Document ideas in a visible accessible format, such as a whiteboard, flipchart, or web app.
 
 

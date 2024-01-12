@@ -6,17 +6,17 @@ A cause-and-effect diagram is a structured tool that helps identify possible cau
 
 There are six main categories of causes known as "6 Ms":
 
-* Manpower (people)
+* **Manpower** (people)
 
-* Methods (processes)
+* **Methods** (processes)
 
-* Machines (equipment)
+* **Machines** (equipment)
 
-* Materials (inputs)
+* **Materials** (inputs)
 
-* Measurements (data)
+* **Measurements** (data)
 
-* Environment (physical conditions)
+* **Mother nature** (environmental conditions)
 
 The diagramming process involves brainstorming the possible causes of the problem and organizing them into these categories. This is typically done in a group setting, with a team of people who have knowledge and experience related to the problem. Once the possible causes are identified, they are analyzed and prioritized, and potential solutions can be developed and implemented.
 

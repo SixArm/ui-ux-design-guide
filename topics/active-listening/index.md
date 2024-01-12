@@ -3,7 +3,7 @@
 Active listening is a communication skill that involves fully focusing on, understanding, and responding
 to the speaker. By practicing active listening, you can improve communication and understanding, help problem-solving and decision-making, and foster collaboration and teamwork.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Pay Attention**: Give your full attention to the speaker. Minimize distractions. Avoid interruptions. Maintain eye contact and use non-verbal cues, such as nodding or leaning in, to show that you are engaged.
 

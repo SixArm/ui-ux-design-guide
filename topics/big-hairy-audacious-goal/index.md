@@ -6,12 +6,12 @@ A BHAG is typically set for a period of 10 to 30 years and should be a clear and
 
 The idea behind a BHAG is that it provides a long-term direction for the company, helping to guide its strategic decisions and prioritize its resources. It also helps to rally employees around a common purpose and inspire them to think creatively and innovatively to achieve the goal.
 
-Examples of BHAGs include:
+**Examples:**
 
-* Google's BHAG of "organizing the world's information and making it universally accessible and useful"
+* **Google**: Organize the world's information and make it universally accessible and useful.
 
-* Microsoft's BHAG of "a computer on every desk and in every home"
+* **Microsoft**: A computer on every desk and in every home.
 
-* Amazon's BHAG of "being the world's most customer-centric company"
+* **Amazon**: Be the world's most customer-centric company.
 
 Setting a BHAG can be a powerful tool for companies of all sizes, as it provides a clear and inspiring vision for the future and helps to align the efforts of all stakeholders towards a common purpose. However, it is important to set a BHAG that is realistic and achievable, while still being challenging and inspiring. A BHAG that is too unrealistic or unattainable can actually be demotivating and may undermine the company's overall performance.

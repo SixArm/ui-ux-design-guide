@@ -2,9 +2,9 @@
 
 Accessibility refers to the design and development of products, services, environments, or digital content that can be used by individuals with disabilities. It aims to ensure that everyone, regardless of their abilities or disabilities, can access and engage with information, technology, and physical spaces.
 
-In the context of digital technology and the web, accessibility focuses on making websites, applications, and digital content usable and understandable for individuals with various disabilities, including visual, auditory, physical, cognitive, and neurological impairments. 
+In the context of digital technology and the web, accessibility focuses on making websites, applications, and digital content usable and understandable for individuals with various disabilities, including visual, auditory, physical, cognitive, and neurological impairments.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Perceivability**: Ensuring that information and content can be perceived through multiple senses. This includes providing alternative text for images, captions for videos, clear and readable text, and color contrast that is easy to distinguish.
 

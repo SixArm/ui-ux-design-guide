@@ -6,7 +6,7 @@ Benefits include improved user experience, inclusivity, legal and ethical compli
 
 Ensuring accessibility requires following established guidelines, such as the Web Content Accessibility Guidelines (WCAG), and conducting accessibility testing and audits.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Perceivability**: Ensure that information can be perceived through multiple senses. For example, provide alternative text for images, captions for videos, clear and readable text, and color contrast.
 

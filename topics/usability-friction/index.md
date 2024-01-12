@@ -1,31 +1,27 @@
-#  Usability friction
+# Usability friction
 
-Friction, in the context of usability and product design, refers to the resistance or obstacles that users may encounter when interacting with a product. It encompasses any elements that make the user experience less smooth or efficient. Reducing friction is a key goal in product design because it can lead to improved user satisfaction, increased engagement, and better overall product performance.
+Usability friction refers to the resistance or obstacles that users may encounter when interacting with a product. It encompasses any elements that make the user experience less smooth or efficient. Reducing friction is a key goal in product design because it can lead to improved user satisfaction, increased engagement, and better overall product performance.
 
-Common areas where friction can occur…
+**Common friction areas:**
 
-User Interface (UI) and User Experience (UX): Complicated or cluttered user interfaces can create friction. 
+* **UI:** Complicated or cluttered user interfaces.
 
-Load Times: Slow loading times for websites or applications can be a significant source of friction. 
+* **Slowness:** Slow loading times for websites, or slow running times for applications.
 
-Sign-Up and Onboarding: Lengthy or complex sign-up processes can deter users. 
+* **Onboarding:** Lengthy or complex sign-up processes or setup steps.
 
-Navigation: Unclear navigation or confusing menu structures can frustrate users. 
+* **Navigation:** Unclear navigation or confusing menu structures.
 
-Forms and Data Entry: Long or complex forms can be tiresome for users.
+* **Data Entry:** Long or complex forms can be tiresome for users.
 
-Errors and Feedback: Inadequate error messages or lack of feedback can lead to user confusion.
+* **Errors:** Inadequate error messages or lack of feedback can lead to user confusion.
 
-Payment Processes: Checkout processes with too many steps or security concerns can lead to cart abandonment.
+* **Payments:** Purchasing processes with too many steps or security complexity.
 
-Accessibility: Inaccessible design for people with disabilities can create friction. Ensuring your product is inclusive and adheres to accessibility guidelines can improve the experience for all users.
+* **Inaccessibility:** Inaccessible design for people with disabilities.
 
-Mobile Responsiveness: Inconsistent or poorly responsive design on mobile devices can lead to friction. 
+* **Mobile:** Inconsistent or poorly responsive design on mobile devices.
 
-Performance and Bugs: Frequent crashes, errors, or slow performance can create friction.
+* **Waste:** Unnecessary steps or actions required to complete a task.
 
-Loading Spinners and Delays: Users may become impatient if they encounter loading spinners or delays. 
-
-Redundant Steps: Unnecessary steps or actions required to complete a task can be seen as a source of friction. Simplifying processes and eliminating redundancies can help.
-
-Content and Information: Overwhelming users with too much information can create friction. Presenting relevant content and information clearly and concisely can improve the user experience.
+* **Overload:** Too much information or too many choices.

@@ -2,7 +2,7 @@
 
 AI for product development refers to the process of creating and enhancing products that incorporate artificial intelligence (AI) technologies. It involves leveraging AI algorithms, machine learning techniques, and data analysis to develop intelligent and innovative solutions. AI can be integrated into various aspects of the product development lifecycle, from ideation and design to implementation and improvement.
 
-**Key aspects**:
+**Examples:**
 
 * **Ideation**: Begin by identifying a market need, or customer use case, that can be addressed using AI capabilities.
 

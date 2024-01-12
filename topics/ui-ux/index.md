@@ -10,8 +10,8 @@ UX (User Experience) encompasses the overall experience and satisfaction that us
 
 Some helpful topics related to UI/UX are:
 
-* User-centered design such as via use cases and user stories
-* Task analysis such as via empathy maps and diary studies
-* Design tactics such as mockups, wireframes, and storyboards
-* AI UI/UX such as for product development and image generation
-* Strategic effects such as network effects and flywheel effects
+* **User-centered design** such as via use cases and user stories
+* **Task analysis** such as via empathy maps and diary studies
+* **Design tactics** such as mockups, wireframes, and storyboards
+* **Artificial intelligence** such as for assistants and image generation
+* **Strategic effects** such as network effects and flywheel effects

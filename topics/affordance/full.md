@@ -2,7 +2,7 @@
 
 In the context of UI/UX design, affordance refers to the perceived action possibilities or functionalities of an object or element based on its visual or physical characteristics. It is a concept that helps users understand how they can interact with a particular element in a user interface.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Perceived Action**: Affordance is about conveying the potential actions or behaviors that an object or element enables or suggests. It helps users understand what actions they can take and how they can interact with the interface.
 

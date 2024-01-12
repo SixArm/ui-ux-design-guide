@@ -1,6 +1,6 @@
 # About related projects
 
-These projects by the author describe more about startup strategy, tactics, and tools. These are links to git repostories that are free libre open source.
+These projects by the author describe more about startup strategy, tactics, and tools. These are links to git repositories that are free libre open source.
 
 * [Architecture Decision Record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
 * [Business model canvas (BMC)](https://github.com/joelparkerhenderson/business-model-canvas)

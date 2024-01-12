@@ -2,7 +2,7 @@
 
 An accordion user interface is a graphical control that allows users to expand or collapse sections of content within a limited amount of screen space. It helps to organize and manage large amounts of information or content in a compact and easily navigable manner.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Space Efficiency**: Accordions are useful when there is limited space to display all the content upfront. By allowing users to expand or collapse sections, accordions conserve screen space, making it easier to present a large amount of information without overwhelming the user.
 

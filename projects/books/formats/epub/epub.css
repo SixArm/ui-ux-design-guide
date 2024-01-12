@@ -40,7 +40,6 @@ img {
 h1 {
   text-indent: 0;
   text-align: left;
-  margin: 3em 0 0 0;
   font-size: 2em;
   font-weight: bold;
   page-break-before: always;
@@ -49,7 +48,6 @@ h1 {
 h2 {
   text-indent: 0;
   text-align: left;
-  margin: 1.5em 0 0 0;
   font-size: 1.5em;
   font-weight: bold;
   page-break-before: always;
@@ -58,21 +56,18 @@ h2 {
 h3 {
   text-indent: 0;
   text-align: left;
-  margin: 1.3em 0 0 0;
   font-size: 1.3em;
   font-weight: bold;
 }
 h4 {
   text-indent: 0;
   text-align: left;
-  margin: 1.2em 0 0 0;
   font-size: 1.2em;
   font-weight: bold;
 }
 h5 {
   text-indent: 0;
   text-align: left;
-  margin: 1.1em 0 0 0;
   font-size: 1.1em;
   font-weight: bold;
 }
@@ -86,9 +81,15 @@ h1, h2, h3, h4, h5, h6 {
   page-break-after: avoid;
   page-break-inside: avoid;
 }
-
 ol, ul {
-  margin: 1em 0 0 1.7em;
+  margin: 1em 0 0 0;
+  list-style-position: outside;
+}
+ol {
+  padding-left: 1.4em;
+}
+ul {
+  padding-left: 1.3em;
 }
 li > ol, li > ul {
   margin-top: 0;

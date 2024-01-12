@@ -1,6 +1,6 @@
 # AI internationalization/localization
 
-AI (Artificial Intelligence) can play a significant role in the processes of internationalization and localization, which involve adapting products or services to different languages, cultures, and regions. 
+AI (Artificial Intelligence) can play a significant role in the processes of internationalization and localization, which involve adapting products or services to different languages, cultures, and regions.
 
 **Key areas**:
 

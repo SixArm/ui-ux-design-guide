@@ -2,7 +2,7 @@
 
 An activity diagram is a type of behavioral diagram in software engineering that describes the flow of activities or actions within a system or process. It is a graphical representation of the steps or actions that take place in a workflow or business process, and can be used to model complex systems or business processes.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Activities**: An activity is a task or action that takes place in the system. It is represented as a rectangle with rounded corners, and the name of the activity is written inside the rectangle. For example, in a banking system, an activity could be "Withdraw Money".
 
