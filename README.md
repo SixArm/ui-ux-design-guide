@@ -16,7 +16,7 @@ UI/UX Design Guide: this book explains one topic per page, like a big glossary, 
 * Get the book: 
   [Free EPUB](https://github.com/SixArm/ui-ux-design-guide/raw/main/ui-ux-design-guide.epub),
   [Free PDF](https://github.com/SixArm/ui-ux-design-guide/raw/main/ui-ux-design-guide.pdf),
-  [Gumroad]((https://gumroad.com/l/ui-ux-design-guide),
+  [Gumroad](https://gumroad.com/l/ui-ux-design-guide),
   [Kindle](https://www.amazon.com/dp/B0CPHVHHV1),
   [Paperback](https://www.amazon.com/dp/TODO).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
