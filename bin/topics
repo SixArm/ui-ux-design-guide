@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+grep '(topics/' "$top/README.md" | sed 's#.*(topics/##; s#)##;'

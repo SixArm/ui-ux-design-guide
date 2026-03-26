@@ -1,0 +1,29 @@
+---
+title: "UI/UX Design Guide"
+subtitle: "Concepts • Terminology • Tactics"
+author: "Edited by Joel Parker Henderson"
+date: "2024-01-01"
+description: >
+  Topics for user interface (UI) design and user experience (UX) development,
+  such as information architecture, task analysis, ideation, mockups, use cases,
+  user stories, modeling diagrams, affordances, accessibility, and localization.
+cover-image: "../../README.jpg"
+logo: "../README.jpg"
+logo-width: 100
+page-background:
+page-background-opacity:
+links-as-notes: false
+#lot: true
+#lof: true
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+header-left:
+header-center:
+header-right:
+footer-left: "© Joel Parker Henderson"
+footer-center: "License: CC-BY-NC-SA-4.0"
+footer-right:
+subparagraph: true
+lang: "en-US"
+---
