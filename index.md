@@ -9,7 +9,7 @@
 
 # UI/UX Design Guide
 
-<img src="README.jpg" alt="UI/UX Design Guide Logo" style="width: 100%;"/>
+<img src="index.jpg" alt="UI/UX Design Guide Logo" style="width: 100%;"/>
 
 UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
